@@ -1,1 +1,5 @@
-2Y4XO74Z2S0XEJ202J4Y2GXX # jam = 2
+{
+key : 2Y4XO74Z2S0XEJ202J4Y2GXX
+name : Xenz
+Time : 2jam
+}
